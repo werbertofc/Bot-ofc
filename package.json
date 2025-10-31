@@ -1,0 +1,12 @@
+{
+  "name": "botofc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc.6",
+    "pino": "^10.1.0",
+    "qrcode": "latest",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
